@@ -1,0 +1,6 @@
+@Users.Infrastructure.DrivingAdapters_HostAddress = http://localhost:5070
+
+GET {{Users.Infrastructure.DrivingAdapters_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
